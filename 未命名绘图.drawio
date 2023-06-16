@@ -1,9 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T07:35:41.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.4.0" etag="56YOGalNgY1TC4je4rIL" type="github">
-  <diagram name="第 1 页" id="ShRie0a3SayBp4CUS8lL">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-06-16T08:20:46.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="me_Dcz0e0nh_ai_mGXm8" version="21.4.0" type="github">
+  <diagram name="第 1 页" id="T65qTif2XA-5PiaVmCAQ">
+    <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-5" value="CA机构" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="100" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="irk-B1uaEGCNgTqAXI8p-5">
+          <mxGeometry x="45" y="60" width="15" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-6" value="浙江CA互认系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="190" y="20" width="100" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="irk-B1uaEGCNgTqAXI8p-6">
+          <mxGeometry x="45" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="irk-B1uaEGCNgTqAXI8p-6">
+          <mxGeometry x="40" y="220" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-8" value="驱动" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-140" y="20" width="100" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="irk-B1uaEGCNgTqAXI8p-8">
+          <mxGeometry x="45" y="180" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-9" value="签章控件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-330" y="20" width="100" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="irk-B1uaEGCNgTqAXI8p-9">
+          <mxGeometry x="45" y="151" width="10" height="329" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-18" value="调用&lt;b&gt;印章信息同步接口&lt;br&gt;推送数据&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="90" y="97" as="sourcePoint" />
+            <mxPoint x="235" y="97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-23" value="保存印章信息" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.013" relative="1" as="geometry">
+            <mxPoint x="246" y="104" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="268" y="104" />
+              <mxPoint x="268" y="134" />
+            </Array>
+            <mxPoint x="243" y="134" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-24" value="返回推送结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="irk-B1uaEGCNgTqAXI8p-6">
+          <mxGeometry x="0.0033" relative="1" as="geometry">
+            <mxPoint x="170" y="150" as="sourcePoint" />
+            <mxPoint x="90" y="150" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-25" value="用户办理CA锁" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="irk-B1uaEGCNgTqAXI8p-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-450" y="90" as="sourcePoint" />
+            <mxPoint y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-29" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="10" width="20" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-31" value="点击签章按钮" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.003" relative="1" as="geometry">
+            <mxPoint x="-450.5" y="182" as="sourcePoint" />
+            <mxPoint x="-285" y="182" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-34" value="调用驱动的iwebnet接口&lt;br&gt;获取印章数据" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0795" y="11" relative="1" as="geometry">
+            <mxPoint x="-272" y="210" as="sourcePoint" />
+            <mxPoint x="-97" y="211" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-282" y="211" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-37" value="调用获取印章信息接口，获取印章信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90.5" y="253" as="sourcePoint" />
+            <mxPoint x="230" y="253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-38" value="返回印章数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0032" relative="1" as="geometry">
+            <mxPoint x="-85" y="313" as="targetPoint" />
+            <mxPoint x="230" y="313" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-35" value="返回印章数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="irk-B1uaEGCNgTqAXI8p-30">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="-280" y="326" as="targetPoint" />
+            <mxPoint x="-95" y="326" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-43" value="展示签章图片" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0118" relative="1" as="geometry">
+            <mxPoint x="-270" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-250" y="390" />
+            </Array>
+            <mxPoint x="-275" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-44" value="用户进行签章操作" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0118" relative="1" as="geometry">
+            <mxPoint x="-270" y="420" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-250" y="450" />
+            </Array>
+            <mxPoint x="-275" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irk-B1uaEGCNgTqAXI8p-45" value="签章完成" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.173" y="-12" relative="1" as="geometry">
+            <mxPoint x="-280" y="482" as="sourcePoint" />
+            <mxPoint x="-450.5" y="482" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
